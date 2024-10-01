@@ -1,3 +1,5 @@
 links: 
-  - href: "https://fonts.googleapis.com/css2?family=Fredoka&display=swap"
-    rel: "stylesheet"
+  - href: "./fonts/Fredoka-Regular.woff"
+    rel: "preload"
+    as: "font"
+    crossorigin: "anonymous"
