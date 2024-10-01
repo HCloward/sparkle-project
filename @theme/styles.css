@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Fredoka';
+  src: local("Fredoka"), url('../static/Fredoka-Regular.woff') format ('woff');
+}
+
 :root {
   --h1-font-family: 'Fredoka';
   --font-family-base: 'Fredoka';
