@@ -1,5 +1,5 @@
 links: 
-  - href: "./static/Fredoka-Regular.woff"
+  - href: "./@theme/fonts/Fredoka-Regular.woff"
     rel: "preload"
     as: "font"
     crossorigin: "anonymous"
