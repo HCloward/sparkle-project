@@ -1,3 +1,5 @@
 links: 
-  - href: "./fonts/Fredoka-Regular.woff"
-    rel: "stylesheet"
+  - href: "./static/Fredoka-Regular.woff"
+    rel: "preconnect"
+    as: "font"
+    crossorigin: "anonymous"
