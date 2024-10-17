@@ -5,3 +5,6 @@ rbac:
   content:
     secrets.md:
       'pizza': read
+      'admin': read
+  reunite:
+    Admins: admin
