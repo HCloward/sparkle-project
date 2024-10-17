@@ -1,0 +1,11 @@
+sso:
+  - REDOCLY
+
+rbac:
+  content:
+    secrets.md:
+      'pizza': read
+      'admin': read
+  reunite:
+    Pizza: admins
+    Admins: none
