@@ -5,6 +5,7 @@ rbac:
   content:
     secrets.md:
       'pizza': none
+      'authenticated': read
       'Pizza': read
       'sharks': none
       '*': none
