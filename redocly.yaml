@@ -4,7 +4,6 @@ sso:
 rbac:
   content:
     secrets.md:
-      'authenticated': read
       'Pizza': read
       'sharks': none
       '*': none
