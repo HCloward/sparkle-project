@@ -7,4 +7,5 @@ rbac:
       'pizza': read
       'admin': read
   reunite:
-    Admins: admin
+    Pizza: admins
+    Admins: none
