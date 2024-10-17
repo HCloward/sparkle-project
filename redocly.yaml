@@ -4,8 +4,10 @@ sso:
 rbac:
   content:
     secrets.md:
-      'pizza': read
+      'pizza': none
       'Admins': read
+      'sharks': none
+      '*': none
   reunite:
     Pizza: admins
     Admins: none
