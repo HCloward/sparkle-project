@@ -4,4 +4,4 @@ sso:
 rbac:
   content:
     secrets.md:
-      'Admin': read
+      'pizza': read
