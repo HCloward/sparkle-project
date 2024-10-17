@@ -1,0 +1,7 @@
+sso:
+  - REDOCLY
+
+rbac:
+  content:
+    secrets.md:
+      'Admin': read
